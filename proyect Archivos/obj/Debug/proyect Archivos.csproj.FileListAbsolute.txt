@@ -1,0 +1,50 @@
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csprojAssemblyReference.cache
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Form1.resources
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.GenerateResource.cache
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe.config
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.pdb
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Properties.Resources.resources
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.exe
+C:\Users\Tolin\Desktop\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.pdb
+E:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe.config
+E:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe
+E:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.pdb
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csprojAssemblyReference.cache
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Form1.resources
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Properties.Resources.resources
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.GenerateResource.cache
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.CoreCompileInputs.cache
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.exe
+E:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.pdb
+F:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe.config
+F:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe
+F:\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.pdb
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csprojAssemblyReference.cache
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Form1.resources
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Properties.Resources.resources
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.GenerateResource.cache
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.CoreCompileInputs.cache
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.exe
+F:\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.pdb
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe.config
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.pdb
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csprojAssemblyReference.cache
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Form1.resources
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Properties.Resources.resources
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.GenerateResource.cache
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.exe
+C:\Users\Tolin\Documents\GitHub\Bases_de_datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.pdb
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe.config
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.exe
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\bin\Debug\proyect Archivos.pdb
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csprojAssemblyReference.cache
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Form1.resources
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect_Archivos.Properties.Resources.resources
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.GenerateResource.cache
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.exe
+C:\Users\Isai\Documents\Proyecto Bases de Datos\proyect Archivos\proyect Archivos\obj\Debug\proyect Archivos.pdb
